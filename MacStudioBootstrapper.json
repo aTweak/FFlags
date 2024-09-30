@@ -129,13 +129,18 @@
     "FFlagAgreementItemsOrderFixEnabled": true,
     "FFlagAXFixNilItemDataCatalogContextFrame": true,
     "FFlagAXDynamicHeadClassicFaceSwappingIXPEnabledWIP4": true,
+    "FFlagEnableCatalogTileLoadingLatencyV2": true,
+    "DFFlagTeamCreatePlaceUploadSendCompressedRollout2": true,
+    "DFIntTeamCreatePlaceUploadSendCompressedRollout2HundredthPercent": 10000,
+    "DFIntTeamCreateSaveCompressionFailureTelemetryThrottleHundredthsPercent": 10000,
+    "FFlagAXHeadRefinementVisualFixes": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": true,
     "FIntBootstrapper64BitStudioPercentage": 5,
     "InfluxInstallHundredthsPercentage": 1,
     "ShowInstallSuccessPrompt": false,
-    "FStringFlagRepoGitHashFastString": "738afda350684d071db6cff3ee570a5c36f787b8",
-    "DFStringFlagRepoGitHashDynamicString": "738afda350684d071db6cff3ee570a5c36f787b8",
-    "FStringFlipTimeStampFastString": "2024-09-25T16:44:07.800Z",
-    "DFStringFlipTimeStampDynamicString": "2024-09-25T16:44:07.800Z"
+    "FStringFlagRepoGitHashFastString": "e145bcabe37dc3b1e40116e66b315779b7de3b69",
+    "DFStringFlagRepoGitHashDynamicString": "e145bcabe37dc3b1e40116e66b315779b7de3b69",
+    "FStringFlipTimeStampFastString": "2024-09-30T18:47:54.037Z",
+    "DFStringFlipTimeStampDynamicString": "2024-09-30T18:47:54.037Z"
 }
